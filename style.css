@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
     font-family:"Times New Roman", serif;
     text-align: center;
 }
@@ -84,4 +85,53 @@ button{
     border: none;
     border-radius: 15px;
     margin-top: 20px;
+=======
+    font-family: Arial;
+    margin:40px;
+}
+
+h1{
+    text-align:center;
+}
+
+span{
+    color:red;
+}
+
+h2{
+    color:#333;
+}
+
+p{
+    font-size:18px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+th{
+    background:#3b4b66;
+    color:white;
+    padding:8px;
+}
+
+td{
+    padding:8px;
+}
+
+input,select{
+    padding:6px;
+    width:250px;
+}
+
+input[type=submit]{
+    width:100px;
+    background:blue;
+    color:white;
+    border:none;
+    padding:8px;
+>>>>>>> daa9fae4677027d791dee89a9affacd5ffe6ebff
 }
